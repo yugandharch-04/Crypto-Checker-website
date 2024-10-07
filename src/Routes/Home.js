@@ -38,7 +38,7 @@ function Home() {
     <div className="App">
       <div className="headerConatainer flex flex-col items-center mt-[30px] mb-[30px]">
         <h1 className="text-[white] text-[40px] font-medium mb-[30px]">
-          Welcome to crypto clone
+          Welcome to crypto checker website
         </h1>
         <div className="buttonCointainer flex flex-row items-center">
           <input
